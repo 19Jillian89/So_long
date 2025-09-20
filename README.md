@@ -11,7 +11,7 @@ The goal of the project is to practice graphics programming, map parsing, and ev
 
 Here’s a preview of the game in action:
 
-![so_long demo](so_long_demo.gif)
+![so_long demo](https://github.com/19Jillian89/So_long/raw/main/so_long%20_demo.gif)
 
 ---
 
